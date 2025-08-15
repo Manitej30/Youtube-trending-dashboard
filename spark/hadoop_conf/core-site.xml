@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<configuration>
+    <!-- Turn off Hadoop native library on Windows to avoid NativeIO errors -->
+    <property>
+        <name>hadoop.native.lib</name>
+        <value>false</value>
+    </property>
+</configuration>
