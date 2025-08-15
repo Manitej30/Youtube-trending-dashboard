@@ -22,9 +22,14 @@ Features
 Folder Structure
 
 /dashboard       - Streamlit app & Dockerfile
+
 /kafka           - Producer scripts
+
 /spark           - Spark Streaming scripts
+
+
 /config          - Config files
+
 /docker-compose.yml
 
 
