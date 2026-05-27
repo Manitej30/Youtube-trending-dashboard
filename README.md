@@ -58,17 +58,6 @@ Streamlit Dashboard
 
 ---
 
-# Dashboard Preview
-
-```md id="v2f5hn"
-![Dashboard](images/dashboard.png)
-
-![Analytics](images/analytics.png)
-
-![Live Events](images/live_events.png)
-
-![Pipeline](images/pipeline.png)
-```
 
 ---
 
